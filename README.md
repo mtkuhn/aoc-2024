@@ -1,7 +1,30 @@
 # advent-of-code-2024
 
-1. [Kotlin](/src/main/kotlin/mkuhn/aoc/Day01.kt) | [Clojure](/src/main/kotlin/mkuhn/aoc/Day01.kt)
-2. tbd
+1. [Kotlin](/src/main/kotlin/mkuhn/aoc/Day01.kt) | ~~[Clojure](/src/main/kotlin/mkuhn/aoc/Day01.kt)~~
+2. 🎁
+3. 🎁
+4. 🎁
+5. 🎁
+6. 🎁
+7. 🎁
+8. 🎁
+9. 🎁
+10. 🎁
+11. 🎁
+12. 🎁
+13. 🎁
+14. 🎁
+15. 🎁
+16. 🎁
+17. 🎁
+18. 🎁
+19. 🎁
+20. 🎁
+21. 🎁
+22. 🎁
+23. 🎁
+24. 🎁
+25. 🎁
 
 [Advent of Code][aoc]
 
