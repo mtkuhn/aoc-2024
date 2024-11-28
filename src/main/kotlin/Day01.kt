@@ -1,5 +1,3 @@
-package aoc
-
 fun main() {
     val input = readInput("Day01")
     println(day1part1(input))
