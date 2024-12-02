@@ -1,11 +1,5 @@
 (ns aoc-clojure.day01 (:require [aoc-clojure.core :refer :all]))
 
-(defn parse-lists-of-longs [file]
-  (->> (slurp file)
-       (clojure.string/split-lines)
-       (map #(clojure.string/split % #"\s+"))
-       (map #(map parse-long %))))
-
 (defn get-sorted-lefts [input] (sort (map first input)))
 (defn get-sorted-rights [input] (sort (map last input)))
 
