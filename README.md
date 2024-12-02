@@ -1,6 +1,6 @@
 # advent-of-code-2024
 
-1. [Kotlin](/src/main/kotlin/mkuhn/aoc/Day01.kt) | ~~[Clojure](/src/main/kotlin/mkuhn/aoc/Day01.kt)~~
+1. [Kotlin](aoc-kotlin/src/main/kotlin/Day01.kt) | [Clojure](aoc-clojure/src/aoc_clojure/day01.clj)
 2. 🎁
 3. 🎁
 4. 🎁
