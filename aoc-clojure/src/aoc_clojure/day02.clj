@@ -47,9 +47,8 @@
          )))
 
 (defn -main []
-  (doseq [i [(solve-part-1 "../resources/test/Day02.txt")
-             (solve-part-1 "../resources/main/Day02.txt")
-             (solve-part-2 "../resources/test/Day02.txt")
-             (solve-part-2 "../resources/main/Day02.txt")
-             ]]
-    (println i)))
+  (println (solve-part-1 "../resources/test/Day02.txt"))
+  (println (solve-part-1 "../resources/main/Day02.txt"))
+  (println (solve-part-2 "../resources/test/Day02.txt"))
+  (println (solve-part-2 "../resources/main/Day02.txt"))
+)

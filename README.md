@@ -2,7 +2,7 @@
 
 1. [Kotlin](aoc-kotlin/src/main/kotlin/Day01.kt) | [Clojure](aoc-clojure/src/aoc_clojure/day01.clj)
 2. [Kotlin](aoc-kotlin/src/main/kotlin/Day02.kt) | [Clojure](aoc-clojure/src/aoc_clojure/day02.clj)
-3. 🎁
+3. [Clojure](aoc-clojure/src/aoc_clojure/day03.clj)
 4. 🎁
 5. 🎁
 6. 🎁
